@@ -5,7 +5,7 @@
  * Description: plugin de démonstration.
  * Version:     1.0.2
  * Author:      wp-code
- * Author URI:  https://www.facebook.com/wp-code
+ * Author URI:  https://www.facebook.com/groups/1569514623182106/
  * License:     GPL2
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: demo-plugin
